@@ -16,7 +16,7 @@ The goal of this exercise was to highlight the differences between manually depl
 ============= The Terraform Way =============
 - Write the terraform code to do exactly the same as above
 - Test that is works using testing instructions above
-
+- Yes you are done!
 
 ============= Conclusion =============
 - How long did it take you to create the infrastructure manually?
